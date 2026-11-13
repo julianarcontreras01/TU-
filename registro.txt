@@ -1,0 +1,9 @@
+Aprendiz: NICOL JULIANA RODRIGUEZ CONTRERAS
+Ficha: 3549894
+Enlace del QR: const URL_PAGINA = "https://julianarcontreras01.guthub.io/TU/";
+Fecha: 13/11/2026, 10:28:15
+
+index.html: 23/23 líneas (completo)
+estilos.css: 17/17 líneas (completo)
+app.js: 18/18 líneas (completo)
+publicar.txt: 6/6 líneas (completo)
